@@ -2,7 +2,7 @@ package codeLogic;
 
 public class AddNumbersLogic {
 	public static void main(String args[]) {
-		int a=5,b=6;
+		int a=5,b=7;
 		System.out.println(a+b);
 	}
 }
